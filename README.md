@@ -54,8 +54,6 @@ If you accept, you'll be reminded to sign into GitLab.
 
 You'll be able to see the GitLab page if you've signed in.
 
-![GitLab](images/5.png)
-
 If you choose not to visit our GitLab project page and just want to enter a
 patent, assuming your patent is in the PCN, you'll see the following status
 after you hit the search button. 

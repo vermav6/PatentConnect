@@ -1,5 +1,5 @@
 # PatentConnect
-Compsci 2XB3 project
+Compsci 2XB3 project <br/>
 **Requires Java 11 or greater.**
 
 ## Overview
